@@ -5,7 +5,7 @@
       style="left: 15px"
     ></div>
     <ul class="list-none m-0 p-0">
-      <li class="mb-10" v-for="item in list" :key="item">
+      <li class="mb-10" v-for="item in list" :key="item.date">
         <div class="flex items-center mb-1">
           <div class="bg-black rounded-full h-8 w-8"></div>
           <div class="flex-1 ml-4 font-bold">
@@ -24,9 +24,9 @@
 
 <script lang="ts">
 type TimelineList = {
-  date: String
-  title: String
-  description: String
+  date: string
+  title: string
+  description: string
 }
 
 import { PropType, defineComponent } from 'vue'
