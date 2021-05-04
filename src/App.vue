@@ -13,22 +13,22 @@
         Semi-Senior Web Developer - 3 Years Experience
       </p>
       <div class="flex mt-8 gap-3">
-        <a href="https://github.com/akbarsaputrait" class="hover:underline"
+        <a href="https://github.com/akbarsaputrait" class="hover:underline" target="_blink"
           >GitHub</a
         >
         <span>-</span>
         <a
-          href="https://www.linkedin.com/in/akbarsaputrait/"
+          href="https://www.linkedin.com/in/akbarsaputrait/" target="_blink"
           class="hover:underline"
           >Linkedin</a
         >
         <span>-</span>
-        <a href="https://twitter.com/akbarsaputrait" class="hover:underline"
+        <a href="https://twitter.com/akbarsaputrait" class="hover:underline" target="_blink"
           >Twitter</a
         >
         <span>-</span>
         <a
-          href="https://www.instagram.com/akbarsaputrait"
+          href="https://www.instagram.com/akbarsaputrait" target="_blink"
           class="hover:underline"
           >Instagram</a
         >
