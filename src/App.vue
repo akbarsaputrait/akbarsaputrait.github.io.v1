@@ -2,7 +2,7 @@
   <div
     class="mx-8 md:mx-20 flex h-full items-center flex-col md:flex-row md:gap-0 gap-5 md:my-0 my-10"
   >
-    <div class="flex flex-col w-full md:w-2/5">
+    <div class="flex flex-col w-full md:w-3/5">
       <p
         class="text-5xl md:text-7xl font-normal m-0 mb-3 uppercase tracking-normal"
       >
@@ -34,7 +34,7 @@
         >
       </div>
     </div>
-    <div class="flex items-center justify-center w-full md:w-3/5">
+    <div class="flex items-center justify-center w-full md:w-3/5 lg:w-full">
       <Timeline :list="timeList" />
     </div>
   </div>
