@@ -76,8 +76,8 @@ export default defineComponent({
       },
       {
         date: 'Currently',
-        title: 'Student & Freelance Web Developer 💻',
-        description: `I'm an Informatics Student at <a href="https://umm.ac.id" class="hover:underline italic" target="_blank">University of Muhammadiyah Malang</a> since August 2019. But in my daily life, I also have a side job as a Freelance Frontend Developer and currently have a project are in progress.`,
+        title: 'Student & Freelance Frontend Web Developer 💻',
+        description: `I'm an Informatics Student at <a href="https://umm.ac.id" class="hover:underline italic" target="_blank">University of Muhammadiyah Malang</a> since August 2019. But in my daily life, I also have a side job as a Freelance Frontend Web Developer and currently have a 2 projects are in progress.`,
       },
     ])
     return { timeList }
