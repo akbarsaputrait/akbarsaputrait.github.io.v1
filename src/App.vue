@@ -1,34 +1,62 @@
 <template>
   <div
-    class="mx-8 md:mx-20 flex h-full items-center flex-col md:flex-row md:gap-0 gap-5 md:my-0 my-10"
+    class="
+      mx-8
+      md:mx-20
+      flex
+      h-full
+      items-center
+      flex-col
+      md:flex-row
+      md:gap-0
+      gap-5
+      md:my-0
+      my-10
+    "
   >
     <div class="flex flex-col w-full md:w-3/5">
       <p
-        class="text-5xl md:text-7xl font-normal m-0 mb-3 uppercase tracking-normal"
+        class="
+          text-5xl
+          md:text-7xl
+          font-normal
+          m-0
+          mb-3
+          uppercase
+          tracking-normal
+        "
       >
         Akbar Anung
         <span class="font-extrabold">Yudha</span> Saputra
       </p>
       <p class="text-2xl italic">
-        Semi-Senior Web Developer - 3 Years Experience
+        Freelance Frontend Web Developer - 2 Years Experience
       </p>
       <div class="flex mt-8 gap-3">
-        <a href="https://github.com/akbarsaputrait" class="hover:underline" target="_blink"
+        <a
+          href="https://github.com/akbarsaputrait"
+          class="hover:underline"
+          target="_blink"
           >GitHub</a
         >
         <span>-</span>
         <a
-          href="https://www.linkedin.com/in/akbarsaputrait/" target="_blink"
+          href="https://www.linkedin.com/in/akbarsaputrait/"
+          target="_blink"
           class="hover:underline"
           >Linkedin</a
         >
         <span>-</span>
-        <a href="https://twitter.com/akbarsaputrait" class="hover:underline" target="_blink"
+        <a
+          href="https://twitter.com/akbarsaputrait"
+          class="hover:underline"
+          target="_blink"
           >Twitter</a
         >
         <span>-</span>
         <a
-          href="https://www.instagram.com/akbarsaputrait" target="_blink"
+          href="https://www.instagram.com/akbarsaputrait"
+          target="_blink"
           class="hover:underline"
           >Instagram</a
         >
